@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Tomas Bouda",
+  "classifications": [ "Common", "Console" ],
+  "identity": "TomLabs.CLITemplate",
+  "name": "Command Line Interface App Template",
+  "shortName": "clitemplate",
+  "sourceName":"CLITemplate",
+  "tags": {
+	"language": "C#",
+	"type": "project"
+  }
+}
